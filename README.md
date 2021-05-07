@@ -6,7 +6,7 @@ Extract Tamil baby names from various sources
 
 python src/main.py --gender boy --length 3 --prefix அதி --output boy.csv
 
-python src/main.py --gender girl --length 4 --prefix அக --output gi
+python src/main.py --gender girl --length 4 --prefix அக --output girl.csv
 
 ## License
 
